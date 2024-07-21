@@ -1,0 +1,12 @@
+title: Transparent file cryptography for research data security in high performance cloud and cluster computing environments
+email: eric@digitalserenity.net
+description: >- 
+  A blog documenting the development and progress of Eric Pizzani's ITC571 Research Project
+baseurl: "" 
+url: "" 
+timezone: Australia/Canberra
+excerpt_length: 50
+show_excerpts: true
+
+# Build settings
+theme: minima
